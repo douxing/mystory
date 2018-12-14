@@ -5,4 +5,5 @@ deYoungTheme.baseFontSize = "18px";
 
 const typography = new Typography(deYoungTheme);
 
+export const rhythm = typography.rhythm;
 export default typography;

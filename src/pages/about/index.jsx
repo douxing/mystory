@@ -2,7 +2,6 @@ import React from 'react';
 import Container from '../../components/container';
 import Layout from '../../components/layout';
 import styles from './about.module.css';
-import Img from 'gatsby-image';
 import DyyDrinkingJuice from '../../components/dyy_drinking_juice'; 
 
 // <img src={props.avatar} className={styles.avatar} alt="">
